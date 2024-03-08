@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mavi">#FF00BCD4</color>
+    <color name="sari">#FFFFEB3B</color>
+    <color name="yesil">#FF4CAF50</color>
+    <color name="mor">#FF673AB7</color>
+    <color name="pembe">#FFB02789</color>
+</resources>
